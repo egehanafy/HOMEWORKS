@@ -1,0 +1,20 @@
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.deps.json
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.csproj.AssemblyReference.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.AssemblyInfoInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.AssemblyInfo.cs
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.csproj.CoreCompileInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.deps.json
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.csproj.AssemblyReference.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.AssemblyInfoInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.AssemblyInfo.cs
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.csproj.CoreCompileInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.Entity\obj\Debug\netcoreapp3.1\NetECommerce.Entity.pdb

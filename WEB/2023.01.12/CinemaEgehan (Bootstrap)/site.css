@@ -1,0 +1,19 @@
+﻿.bg-soft {
+    background-color: #e3f2fd;
+}
+.nav-item{
+    font-size:20px;
+    margin-right:15px;
+}
+.nav-button{
+    margin-right:10px;
+}
+.bg-transparent{
+    color:rgba(128,128,128,25);
+}
+.col-md-3 {
+    margin-top: 20px;
+}
+.carousel-inner {
+    margin-top: 10px;
+}

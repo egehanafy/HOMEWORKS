@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NorthWindMVC_First.props" />
+</Project>

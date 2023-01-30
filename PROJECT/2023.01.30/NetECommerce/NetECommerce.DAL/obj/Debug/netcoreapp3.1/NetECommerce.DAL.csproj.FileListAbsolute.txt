@@ -1,0 +1,32 @@
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.deps.json
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.runtimeconfig.json
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.runtimeconfig.dev.json
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.pdb
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.AssemblyReference.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.AssemblyInfoInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.AssemblyInfo.cs
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.CoreCompileInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.CopyComplete
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.pdb
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.genruntimeconfig.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.deps.json
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.runtimeconfig.json
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.runtimeconfig.dev.json
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.AssemblyReference.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.AssemblyInfoInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.AssemblyInfo.cs
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.CoreCompileInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.csproj.CopyComplete
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.DAL\obj\Debug\netcoreapp3.1\NetECommerce.DAL.genruntimeconfig.cache

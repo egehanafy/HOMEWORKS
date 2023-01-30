@@ -1,0 +1,25 @@
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.deps.json
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.csproj.AssemblyReference.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.AssemblyInfoInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.AssemblyInfo.cs
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.csproj.CoreCompileInputs.cache
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+D:\YZL3162\EVDE DERS SIRASINDA\Project\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.deps.json
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.DAL.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\bin\Debug\netcoreapp3.1\NetECommerce.Entity.pdb
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.csproj.AssemblyReference.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.AssemblyInfoInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.AssemblyInfo.cs
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.csproj.CoreCompileInputs.cache
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.csproj.CopyComplete
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.dll
+D:\YZL3162\HOMEWORK\PROJECT\2023.01.30\NetECommerce\NetECommerce.BLL\obj\Debug\netcoreapp3.1\NetECommerce.BLL.pdb
